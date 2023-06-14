@@ -7,12 +7,8 @@
   <img src="https://user-images.githubusercontent.com/65084923/220200035-01fa5e08-af6a-495b-b597-55157a2b7d95.gif" alt="logo" />
   <br/>
 
-  <h3><b>Roman Emperors</b></h3>
-  <h3><b>Roman Emperors - React & Redux Microverse Capstone Project Module 3</b></h3>
-
-  <img src="https://user-images.githubusercontent.com/65084923/227247099-f4c5cecc-9b37-427e-8222-e98b8382823d.jpg" alt="logo" width="200"  height="auto" />
-  <img src="https://user-images.githubusercontent.com/65084923/227248276-278e6f39-dc77-4a65-b1f1-0368ea35a7fb.jpg" alt="logo" width="200"  height="auto" />
-  <img src="https://user-images.githubusercontent.com/65084923/227248445-b3c77feb-9ffa-4362-8dd1-35a6894dfecb.jpg" alt="logo" width="200"  height="auto" />
+  <h3><b>Hello React Frontend</b></h3>
+  <h3><b>Hello React Frontend - React & Redux Microverse Project Module 6</b></h3>
 
 </div>
 
@@ -36,9 +32,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Roman Emperors - React & Redux Microverse Capstone Project Module 3<a name="about-project"></a>
+# 📖 Hello React Frontend - React & Redux Microverse Project Module 6<a name="about-project"></a>
 
-> Roman Emperors React & Redux App developed with Nodejs, Html, Css, Js, Webpack, React and Redux
+> Hello React Frontend React & Redux App developed with Nodejs, Html, Css, Js, Webpack, React and Redux
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,20 +56,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Dynasty page with search function**
-- **Emperor Dinasty Page**
-- **Emperor Details Page**
+- **Random Greeting Page**
 - **Routing with React Route**
 - **API connection using Redux Toolkit AsyncThunk**
-- **Css module Style**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🧑🏻‍💻 Live Demo <a name="live-demo"></a>
-
-<a href="https://roman-emperors.onrender.com">Visit the Live Demo</a>
-
-<a href="https://www.loom.com/share/d7dd06204ab34f528737095e9a0982ab">Visit my Loom Presentaion Video</a>
 
 <br/>
 
@@ -193,5 +180,3 @@ This project is [MIT](<a href="./licence">License</a>) licensed.
 <a href="./licence">License</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-Original design idea by <a href="https://www.behance.net/sakwadesignstudio">Nelson Sakwa on Behance</a>.
