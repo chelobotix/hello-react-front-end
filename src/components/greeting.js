@@ -1,7 +1,7 @@
-import React from "react";
-import { useSelector, useDispatch } from "react-redux";
-import { useEffect } from "react";
-import { fetchMessages } from "../redux/features/msgsSlice";
+import React, { useEffect } from 'react';
+import { useSelector, useDispatch } from 'react-redux';
+
+import { fetchMessages } from '../redux/features/msgsSlice';
 
 const Greeting = () => {
   const dispatch = useDispatch();
@@ -15,7 +15,7 @@ const Greeting = () => {
     dispatch(fetchMessages());
   }, [dispatch]);
 
-  if (store.message.data === "") {
+  if (store.message.data === '') {
     return <h2>Loading...</h2>;
   }
 
