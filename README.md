@@ -70,7 +70,7 @@ To get a local copy up and use as a template for your own portafolio site, follo
 
 Go to the following Repo to get the Backend version with Ruby on Rails:
 
-<a>https://github.com/chelobotix/Hello-Rails-React</a>
+<a>https://github.com/chelobotix/hello-rails-back-end</a>
 
 To get a local copy up and use as a template, follow these steps.
 
